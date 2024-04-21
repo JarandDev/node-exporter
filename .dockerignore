@@ -1,0 +1,10 @@
+.idea/
+*.iml
+
+.gitignore
+
+README.md
+
+.github/
+
+scripts/
